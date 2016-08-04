@@ -1,4 +1,4 @@
-# awesome-nlp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-nlp-korean [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources dedicated to Natural Language Processing for Korean
 >
@@ -50,27 +50,7 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
 
 ### videos
 
-* [Stanford's Coursera Course](https://www.coursera.org/learn/nlp) on NLP from basics
-* [Intro to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) on Coursera by U of Michigan
-* [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) course on Udacity which also covers NLP
-* [Deep Learning for Natural Language Processing (2015 classes)](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q) by Richard Socher
-* [Deep Learning for Natural Language Processing (2016 classes)](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) by Richard Socher. Updated to make use of Tensorflow. Note that there are some lectures missing (lecture 9, and lectures 12 onwards). 
-* [Natural Language Processing](https://www.coursera.org/learn/nlangp) - course on Coursera that was only done in 2013. The videos are not available at the moment. Also Mike Collins is a great professor and his notes and lectures are very good. 
-* [Statistical Machine Translation](http://mt-class.org) - a Machine Translation course with great assignments and slides. 
-* [Natural Language Processing SFU](http://www.cs.sfu.ca/~anoop/teaching/CMPT-413-Spring-2014/) - course by [Prof Anoop Sarkar](https://www.cs.sfu.ca/~anoop/) on Natural Language Processing. Good notes and some good lectures on youtube about HMM. 
-* [Udacity Deep Learning](https://classroom.udacity.com/courses/ud730) Deep Learning course on Udacity (using Tensorflow) which covers a section on using deep learning for NLP tasks (covering Word2Vec, RNN's and LSTMs).
-* [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) by Harrison Kinsley(sentdex). Good tutorials with NLTK code implementation.
-
 ## Deep Learning for NLP 
-
-[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
-Class by [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). 2016 content was updated to make use of Tensorflow. Lecture slides and reading materials for 2016 class [here](http://cs224d.stanford.edu/syllabus.html). Videos for 2016 class [here](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam). Note that there are some lecture videos missing for 2016 (lecture 9, and lectures 12 onwards). All videos for 2015 class [here](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)
-
-[Udacity Deep Learning](https://classroom.udacity.com/courses/ud730)
-Deep Learning course on Udacity (using Tensorflow) which covers a section on using deep learning for NLP tasks. This section covers how to implement Word2Vec, RNN's and LSTMs.
-
-[A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
-Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
 
 
 ## Packages
@@ -95,53 +75,10 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [Natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 
 * <a id="python">**Python** - Python NLP Libraries</a>
-  * [Scikit-learn: Machine learning in Python](http://arxiv.org/pdf/1201.0490.pdf)
-  * [Natural Language Toolkit (NLTK)](http://www.nltk.org/)
-  * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
-  * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
-  * [YAlign](https://github.com/machinalis/yalign) - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora.
-  * [jieba](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
-  * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
   * [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
-  * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
-  * [BLLIP Parser](https://pypi.python.org/pypi/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
-  * [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA](http://proycon.github.io/folia/), but also ARPA language models, Moses phrasetables, GIZA++ alignments.
-  * [python-ucto](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages)
-  * [python-frog](https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
-  * [python-zpar](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constiuency parser, and dependency parser for English.
-  * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-  * [spaCy](https://github.com/spacy-io/spaCy) - Industrial strength NLP with Python and Cython.
-  * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
 * <a id="c++">**C++** - C++ Libraries</a>
-  * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
-  * [CRF++](https://taku910.github.io/crfpp/) - Open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks.
-  * [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields (CRFs) for labeling sequential data.
-  * [BLLIP Parser](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
-  * [colibri-core](https://github.com/proycon/colibri-core) - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-  * [ucto](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
-  * [libfolia](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](http://proycon.github.io/folia/)
-  * [frog](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-  * [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
-  * [Mecab (Japanese)](http://taku910.github.io/mecab/)
   * [Mecab (Korean)](http://eunjeon.blogspot.com/)
-  * [Moses](http://statmt.org/moses/)
-
-* <a id="java">**Java** - Java NLP Libraries</a>
-  * [Stanford NLP](http://nlp.stanford.edu/software/index.shtml)
-  * [OpenNLP](http://opennlp.apache.org/)
-  * [ClearNLP](https://github.com/clir/clearnlp)
-  * [Word2vec in Java](http://deeplearning4j.org/word2vec.html)
-  * [ReVerb](https://github.com/knowitall/reverb/) Web-Scale Open Information Extraction
-  * [OpenRegex](https://github.com/knowitall/openregex) An efficient and flexible token-based regular expression language and engine.  
-  * [CogcompNLP](https://github.com/IllinoisCogComp/illinois-cogcomp-nlp) - Core libraries developed in the U of Illinois' Cognitive Computation Group. 
-  
-* <a id="clojure">**Clojure**</a>
-  * [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
-  * [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript
-
-* <a id="ruby">**Ruby**</a>
-  * Kevin Dias's [A collection of Natural Language Processing (NLP) Ruby libraries, tools and software](https://github.com/diasks2/ruby-nlp)
   
 ### Services
 * [Wit-ai](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices.
