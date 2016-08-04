@@ -1,8 +1,11 @@
 # awesome-nlp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources dedicated to Natural Language Processing for Korean
+>
 > 한글, 한국어에 대한 자연어처리를 하는데에 유용한 자료 목록을 모아두었습니다. 
+>
 > Maintainers - [Insik Kim](https://github.com/insikk)
+>
 > Thanks to [Keon Kim](https://github.com/keonkim), [Martin Park](https://github.com/outpark) for making awesome nlp, which is original awesome-nlp
 
 Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls), or email Insik Kim (insik92@gmail.com) to add links.
