@@ -89,6 +89,7 @@ Resources about word vectors, aka word embeddings, and distributed representatio
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
 
 [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
+[word2vec 튜토리얼](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
 
 ### Thought Vectors
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis.  
