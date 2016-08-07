@@ -39,6 +39,8 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
    - [Named Entity Recognition](#named-entity-recognition)
    - [Neural Network](#neural-network)
    - [Supplementary Materials](#supplementary-materials)
+ - [Projects](#projects)
+   - [시인 뉴럴](#poet-neural)  
  - [Blogs](#blogs)
  - [Credits](#credits)
 
@@ -223,19 +225,13 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * [Presentation slides](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/poon-paper.pdf)
 * [Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations](https://homes.cs.washington.edu/~clzhang/paper/acl2011.pdf)
 
+## Projects
+
+* [시인 뉴럴](https://github.com/carpedm20/poet-neural). Multi-layer LSTM for character-level language models in Torch. implemented by Kim Tae Hoon.
 
 ## Blogs
-* Blog Post on [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-* Blog Post on [NLP Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/)
-* [Natural Language Processing Blog](http://nlpers.blogspot.ch/) by Hal Daumé III
-* [Machine Learning Blog](https://bmcfee.github.io/#home) by Brian McFee
-
 
 ## Credits
 part of the lists are from 
 * [ai-reading-list](https://github.com/m0nologuer/AI-reading-list) 
-* [nlp-reading-group](https://github.com/clulab/nlp-reading-group/wiki/Fall-2015-Reading-Schedule/_edit)
-* [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
-* [jjangsangy's awesome-nlp](https://gist.github.com/jjangsangy/8759f163bc3558779c46)
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/edit/master/README.md)
-* [DL4NLP](https://github.com/andrewt3000/DL4NLP)
+
