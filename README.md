@@ -88,6 +88,8 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
 
+[word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
+
 ### Thought Vectors
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis.  
 
@@ -107,6 +109,7 @@ Thought vectors are numeric representations for sentences, paragraphs, and docum
 ## Projects
 
 * [시인 뉴럴](https://github.com/carpedm20/poet-neural). Multi-layer LSTM for character-level language models in Torch. implemented by Kim Tae Hoon.
+* [한글 word2vec Demo](http://w.elnn.kr/search/). implemented by Daegeun Lee.
 
 ## Blogs
 
