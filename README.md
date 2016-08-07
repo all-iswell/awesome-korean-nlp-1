@@ -52,6 +52,7 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
 
 ### Corpus, 말뭉치
 
+* [세종말뭉치](https://ithub.korean.go.kr/user/guide/corpus/guide1.do)
 * [Wikipedia Korean](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C)
 * [나무 위키](https://namu.mirror.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84)
 
