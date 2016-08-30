@@ -22,6 +22,7 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
    - [Libraries](#libraries)
      - [Python](#user-content-python)
      - [C++](#user-content-c++)
+     - [Scalar](#user-content-scalar)
    - [Services](#services)
  - [Articles](#articles)
    - [Review Articles](#review-articles)
@@ -77,7 +78,12 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
   * [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 
 * <a id="c++">**C++** - C++ Libraries</a>
-  * [Mecab (Korean)](http://eunjeon.blogspot.com/)
+  * [Mecab (Korean) 형태소분석기](http://eunjeon.blogspot.com/)
+
+* <a id="scalar">**Scalar** - Scalar Libraries</a>
+  * [twitter-korean-text 토큰 추출](https://github.com/twitter/twitter-korean-text)
+
+https://github.com/twitter/twitter-korean-text
   
 ### Services
 
