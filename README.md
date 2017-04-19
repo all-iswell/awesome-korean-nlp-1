@@ -58,7 +58,7 @@ Please feel free to [pull requests](https://github.com/insikk/awesome-nlp/pulls)
 * [Wiki Source Korean](https://ko.wikisource.org/wiki/%EC%9C%84%ED%82%A4%EB%AC%B8%ED%97%8C:%EB%8C%80%EB%AC%B8)
 > 출판물이기 때문에 문법 정보 추출에 도움이 되는 데이터
 
-* [나무 위키](https://namu.mirror.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84)
+* [나무 위키](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84)
 
 
 ## Deep Learning for NLP 
